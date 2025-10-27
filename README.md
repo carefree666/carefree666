@@ -27,4 +27,4 @@
 
 ### 🎯 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/carefree666/carefree666/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/carefree666/carefree666/output/snake.svg)
